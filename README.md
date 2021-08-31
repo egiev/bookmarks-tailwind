@@ -1,4 +1,4 @@
 # BOOKMARK TAILWIND
-PSD TO HTML using Tailwind
+HTML with Tailwind CSS
 
 <img src="screenshot.png"/>
